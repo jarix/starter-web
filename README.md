@@ -13,4 +13,8 @@ for practicing Git and GitHub
 
 ## Deployment
 
+Download the files to a web-server
+
 ## How to Contribute
+
+Send a pull request
