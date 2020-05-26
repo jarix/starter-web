@@ -8,6 +8,9 @@ Sample website with plenty of files for demos/practice
 
 ## Purpose
 
+Ad stated above, the main purpose is to have sample code
+for practicing Git and GitHub
+
 ## Deployment
 
 ## How to Contribute
