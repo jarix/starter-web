@@ -17,7 +17,7 @@ Download the files to a web-server
 
 ## How to Contribute
 
-Send a pull request
+Please fork this repository and then issue a pull request
 
 ## Copyright
 
