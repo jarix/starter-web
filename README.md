@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This repository is for playing with Git and GitHub
+This repository is for playing with Git and GitHub. 
+Adding a line for rebasing example.
 
 ## Introduction
 
