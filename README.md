@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This repository is for playing with Git and GitHub. 
-Adding a line for rebasing example.
+Adding a line for rebasing example, more changing from myfeature
+branch too. 
 
 ## Introduction
 
