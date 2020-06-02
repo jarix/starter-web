@@ -23,4 +23,4 @@ Please fork this repository and then issue a pull request
 
 ## Copyright
 
-2020 Jari Honkanen 
+(C) 2020 Jari Honkanen, All Rights Reserved. 
